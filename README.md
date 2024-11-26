@@ -25,6 +25,5 @@ Bem-vindo ao Calculator! Esta é uma aplicação de console simples para realiza
 2. Execute a aplicação::
 
     ```bash
-    dotnet build
     dotnet run --project Calculator.csproj
     ```
